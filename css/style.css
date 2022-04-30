@@ -746,7 +746,7 @@
     .form .container .form-content .contact {
         display: flex;
         justify-content: center;
-        padding: 40px 30px;
+        padding: 2% 4%;
     }
   
     @media (max-width: 767px) {
